@@ -1,0 +1,10 @@
+class User_Info:
+    taken_course: [str]
+    current_course: [str]
+    college: str
+    major: str
+    minor: str
+    quater_credit: int
+    total_credit: int
+    pass_time_max_credit: int
+    general_education: [str]
